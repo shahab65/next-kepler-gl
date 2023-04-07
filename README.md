@@ -1,3 +1,5 @@
+This project has been created for [this article](https://dev.to/shahab65/adding-kepler-gl-to-a-nextjs-application-3l7k)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
